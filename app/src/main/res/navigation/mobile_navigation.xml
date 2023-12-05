@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home"
+    app:popUpToInclusive="true" >
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.project1.ui.home.HomeFragment"
+        android:label="Money Manager"
+        tools:layout="@layout/fragment_home" />
+
+
+    <fragment
+        android:id="@+id/nav_income"
+        android:name="com.example.project1.ui.home.HomeFragment"
+        android:label="Income"
+        tools:layout="@layout/fragment_home" >
+        <argument
+            android:name="name"
+            app:argType="string"
+            android:defaultValue="income" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_expenses"
+        android:name="com.example.project1.ui.home.HomeFragment"
+        android:label="Expenses"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_savings"
+        android:name="com.example.project1.ui.home.HomeFragment"
+        android:label="Savings"
+        tools:layout="@layout/fragment_home" />
+
+
+
+
+<!--    ///////////-->
+
+
+
+    <fragment
+        android:id="@+id/nav_feed_back"
+        android:name="com.example.project1.ui.feedback.FeedbackFragment"
+        android:label="Feedback"
+        tools:layout="@layout/fragment_feedback" />
+
+<!--    <fragment-->
+<!--        android:id="@+id/nav_slideshow"-->
+<!--        android:name="com.example.moneymanager.ui.home.slideshow.SlideshowFragment"-->
+<!--        android:label="@string/menu_slideshow"-->
+<!--        tools:layout="@layout/fragment_slideshow" />-->
+</navigation>

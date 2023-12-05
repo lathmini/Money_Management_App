@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.project1.ui.home.bottomhome.BottomHomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_bottom_home" />
+
+    <fragment
+        android:id="@+id/navigation_up"
+        android:name="com.example.project1.ui.home.income.IncomeFragment"
+        android:label="Income"
+        tools:layout="@layout/activity_fetching" />
+
+    <fragment
+        android:id="@+id/navigation_down"
+        android:name="com.example.project1.ui.home.expenses.ExpensesFragment"
+        android:label="Expenses"
+        tools:layout="@layout/fragment_expenses" />
+
+    <fragment
+        android:id="@+id/navigation_savings"
+        android:name="com.example.project1.ui.home.savings.SavingsFragment"
+        android:label="Savings"
+        tools:layout="@layout/fragment_dashboard" />
+</navigation>

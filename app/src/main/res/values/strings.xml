@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="User_login">User login</string>
+    <string name="username_login">username</string>
+    <string name="password_login">password</string>
+    <string name="login_bt">LOGIN</string>
+    <string name="register_login">REGISTER</string>
+    <string name="text_registration">User Registration</string>
+    <string name="usernameReg">username_reg</string>
+    <string name="emailReg">email_Reg</string>
+    <string name="contactReg">contact_Reg</string>
+    <string name="passwordReg">password_Reg</string>
+    <string name="conPasswordReg">conPassword_Reg</string>
+    <string name="registration_btn_p">REGISTER</string>
+    <string name="text_UP">User Profile</string>
+    <string name="image_Up">image_UP</string>
+    <string name="username_UP">username_up</string>
+    <string name="email_UP">email_up</string>
+    <string name="contact_UP">contact_up</string>
+    <string name="password_UP">password_up</string>
+    <string name="update_UP">update_up</string>
+    <string name="delete_UP">delete_up</string>
+    <string name="layout_image">layout_image</string>
+    <string name="make_layout">make_layout</string>
+    <string name="title_activity_verification">VerificationActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">user@mail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_bottom">bottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="expenses">Expenses</string>
+    <string name="Addexpenses">Add Expenses</string>
+
+
+    <string name="income">Income</string>
+    <string name="name">Tharusha</string>
+    <string name="email">tharushanelligahawaththa@gmail.com</string>
+    <string name="ExpensesHead">Expenses</string>
+    <string name="MainHeader">Money Manager</string>
+    <string name="categoty1">Rental</string>
+    <string name="cate1">Reantal</string>
+    <string name="amount">LKR 12500</string>
+    <string name="expenDescription">for living apartment</string>
+    <string name="expenDate">16.03.2023</string>
+    <string name="cate2">For Foods</string>
+    <string name="cate3">Fuel</string>
+    <string name="amount3">LKR 8000</string>
+    <string name="amount2">LKR 15000</string>
+    <string name="date">date</string>
+    <string name="date1">date1</string>
+    <string name="AddExpenses">Add Expenses</string>
+    <string name="BtnSubmit">Submit</string>
+    <string name="menuBar">menu</string>
+    <string name="header">Money Manager</string>
+    <string name="headerLayout">headerLayout</string>
+    <string name="Usericon">User</string>
+    <string name="fromCatagory">Catagory</string>
+    <string name="formAmount">Amount</string>
+    <string name="FormDescription">Description</string>
+    <string name="fromDate">Date</string>
+    <string name="contributerName1">Abyrathna M.A</string>
+    <string name="aboutus">About Us</string>
+    <string name="contributeName2">Munasinghe L.S</string>
+    <string name="contributename3">Nelligahawaththa A D T B</string>
+    <string name="aboutUsdes">You may manage your income and expenses using this application, we hope. That is the reason we developed this app.</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="updateBtn">Update</string>
+    <string name="updatemessage">Update Your Expenses Details</string>
+</resources>
+

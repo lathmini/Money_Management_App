@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/menu_home" />
+
+
+        <item
+            android:id="@+id/nav_income"
+            android:icon="@drawable/income"
+            android:title="Income" />
+
+        <item
+            android:id="@+id/nav_expenses"
+            android:icon="@drawable/expenses"
+            android:title="Expenses" />
+
+        <item
+            android:id="@+id/nav_savings"
+            android:icon="@drawable/baseline_data_usage_24"
+            android:title="Savings" />
+    </group>
+
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_feed_back"
+            android:icon="@drawable/baseline_feedback_24"
+            android:title="Feedback" />
+
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@drawable/baseline_star_rate_24"
+            android:title="RateUs" />
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/baseline_info_24"
+            android:title="About Us" />
+    </group>
+
+    <group
+        android:id="@+id/menu_other"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/baseline_login_24"
+            android:title="Sign Out" />
+    </group>
+</menu>

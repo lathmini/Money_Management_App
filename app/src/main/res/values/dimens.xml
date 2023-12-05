@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="test_login">36sp</dimen>
+    <dimen name="username_login">50dp</dimen>
+    <dimen name="password_login">50dp</dimen>
+    <dimen name="text_btnLg">18sp</dimen>
+    <dimen name="text_btnReg">18sp</dimen>
+    <dimen name="textReg">36sp</dimen>
+    <dimen name="emailReg">50sp</dimen>
+    <dimen name="contactReg">50sp</dimen>
+    <dimen name="image_width">147dp</dimen>
+    <dimen name="image_height">147dp</dimen>
+    <dimen name="textUP">18sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <dimen name="addCategory">50dp</dimen>
+    <dimen name="menuwidth">399dp</dimen>
+    <dimen name="menuheight">239dp</dimen>
+    <dimen name="profileWidth">49dp</dimen>
+    <dimen name="profileHeight">47dp</dimen>
+    <dimen name="menuBarWidth">39dp</dimen>
+    <dimen name="menuBarHeight">39dp</dimen>
+    <dimen name="subBtnWidth">290dp</dimen>
+    <dimen name="homeBtnWidth">83dp</dimen>
+    <dimen name="linearLayoutWidth3">336dp</dimen>
+    <dimen name="linearLayoutHeight">52dp</dimen>
+    <dimen name="AddExpensesWidth">240dp</dimen>
+    <dimen name="ExpensesWidth">262dp</dimen>
+    <dimen name="ExpensesHeght">60dp</dimen>
+    <dimen name="descriptionW1">357dp</dimen>
+    <dimen name="descriptionH1">160dp</dimen>
+    <dimen name="layout2Width">378dp</dimen>
+    <dimen name="layout2Height">621dp</dimen>
+    <dimen name="layout8Width">357dp</dimen>
+    <dimen name="layout8Heght" />
+    <dimen name="layout8Height">93dp</dimen>
+</resources>

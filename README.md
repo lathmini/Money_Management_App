@@ -1,2 +1,2 @@
-# Money_Management_App
- 
+# Mobile_App
+mobile app for money manage using Kotlin
